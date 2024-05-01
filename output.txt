@@ -1,2 +1,1 @@
-First Vector: 1 
-Second Vector: 6 
+0 1 2 4 4 6 7 9 
