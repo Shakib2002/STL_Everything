@@ -1,1 +1,3 @@
-The elements are: 51 51 51 51 51 
+The short array is: 11 33 55 88 99 
+Not found
+286
