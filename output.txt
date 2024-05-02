@@ -1,3 +1,1 @@
-The short array is: 11 33 55 88 99 
-Not found
-286
+1 2 3 4 5 6 
