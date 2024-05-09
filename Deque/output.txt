@@ -1,0 +1,4 @@
+Initial Deque: 1 , 2 , 3 , 4 , 5 , 
+
+Deque after pop_back: 1 , 2 , 3 , 4 , 
+Deque after pop_front: 2 , 3 , 4 , 
